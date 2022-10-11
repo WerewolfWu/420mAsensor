@@ -1,0 +1,8 @@
+How to use 4-20mA sensor with an Arduino
+Youtube link: https://youtu.be/yrHJ84ePtIw
+You probably came here because of the youtube video right?
+It's written in Arduino so ask your lawyer to read their license agreement, 
+you can do whatever you want with it as long as your lawyer says it's ok. 
+You won't hear from me (or my imaginary lawyer), so long as you don't blame me for your code not working. 
+The author doesn't provide any warranty / support, but feel free to drop me a comment on youtube if you have any questions. 
+the LCD library is "hd44780" by Bill Perry, you can install it directly from Arduino IDE's library manager
